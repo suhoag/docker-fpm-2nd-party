@@ -1,0 +1,1 @@
+## 가비아 2nd party 서비스용 PHP-FPM 이미지
